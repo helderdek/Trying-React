@@ -13,7 +13,7 @@ const VideoListItem = ({video}) => {
                     <div className="media-heading">{video.snippet.title}</div>
                 </div>
             </div>
-        </li>
+        </li
     );
 };
 
